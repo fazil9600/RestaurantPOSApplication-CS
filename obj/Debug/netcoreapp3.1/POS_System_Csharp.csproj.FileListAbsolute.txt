@@ -1,0 +1,14 @@
+D:\My C# projects\C#\POS_System_Csharp\bin\Debug\netcoreapp3.1\POS_System_Csharp.exe
+D:\My C# projects\C#\POS_System_Csharp\bin\Debug\netcoreapp3.1\POS_System_Csharp.deps.json
+D:\My C# projects\C#\POS_System_Csharp\bin\Debug\netcoreapp3.1\POS_System_Csharp.runtimeconfig.json
+D:\My C# projects\C#\POS_System_Csharp\bin\Debug\netcoreapp3.1\POS_System_Csharp.runtimeconfig.dev.json
+D:\My C# projects\C#\POS_System_Csharp\bin\Debug\netcoreapp3.1\POS_System_Csharp.dll
+D:\My C# projects\C#\POS_System_Csharp\bin\Debug\netcoreapp3.1\POS_System_Csharp.pdb
+D:\My C# projects\C#\POS_System_Csharp\obj\Debug\netcoreapp3.1\POS_System_Csharp.Form1.resources
+D:\My C# projects\C#\POS_System_Csharp\obj\Debug\netcoreapp3.1\POS_System_Csharp.csproj.GenerateResource.cache
+D:\My C# projects\C#\POS_System_Csharp\obj\Debug\netcoreapp3.1\POS_System_Csharp.AssemblyInfoInputs.cache
+D:\My C# projects\C#\POS_System_Csharp\obj\Debug\netcoreapp3.1\POS_System_Csharp.AssemblyInfo.cs
+D:\My C# projects\C#\POS_System_Csharp\obj\Debug\netcoreapp3.1\POS_System_Csharp.csproj.CoreCompileInputs.cache
+D:\My C# projects\C#\POS_System_Csharp\obj\Debug\netcoreapp3.1\POS_System_Csharp.dll
+D:\My C# projects\C#\POS_System_Csharp\obj\Debug\netcoreapp3.1\POS_System_Csharp.pdb
+D:\My C# projects\C#\POS_System_Csharp\obj\Debug\netcoreapp3.1\POS_System_Csharp.genruntimeconfig.cache
